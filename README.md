@@ -1,5 +1,6 @@
 
 ![](https://komarev.com/ghpvc/?username=andresdamelio&color=006bed)
+[![GitHub Andres]( https://img.shields.io/github/followers/andresdamelio?label=follow&style=social)](https://github.com/andresdamelio)
 
 <h3> 👨‍💻: &nbsp;About me </h3>
 
@@ -13,7 +14,7 @@
 
 **Frameworks, Platforms and Libraries**
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flag&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -57,6 +58,22 @@
 
 <h3> :earth_americas: &nbsp;Find me as: </h3> 
 
-[![Linkedin: Andrés D'Amelio](https://img.shields.io/badge/-andresdamelio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/andresdamelio/))](https://www.linkedin.com/in/andresdamelio)
-[![Twitter](https://img.shields.io/twitter/follow/andres_damelio?style=social)](https://twitter.com/andres_damelio)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/andresdamelio?label=follow&style=social)](https://github.com/Andresdamelio)
+<p>
+  <a href="https://andresdamelio.tech/sobre-mi">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Website-1C1C1C?style=for-the-badge&logo=CodersRank&logoColor=fabf2b"
+    />
+  </a>
+  <a href="https://twitter.com/andres_damelio">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=fabf2b"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/andresdamelio/">
+    <img
+         align="center"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=fabf2b"
+  </a>
+</p>
