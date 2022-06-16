@@ -9,6 +9,7 @@
 - 💼 &nbsp; Frontend Developer at Shipit Latam.
 - 🌱 &nbsp; Learning more about frontend development and UX/UI.
 - 💚 &nbsp; Platzi student
+- 📫 &nbsp; How to reach me: me@andresdamelio.tech
 
 <h3> :rocket: &nbsp;Technologies </h3>
 
