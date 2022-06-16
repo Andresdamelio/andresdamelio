@@ -51,9 +51,7 @@
 
 <br/>
 
-<a href="https://github.com/andresdamelio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andresdamelio&theme=dracula&show_icons=true" />
-</a>
+![Andres GitHub stats](https://github-readme-stats-andresdamelio.vercel.app/api?username=andresdamelio&show_icons=true&count_private=true&theme=tokyonight&title_color=f2f2f2&icon_color=ecd748&text_color=b9a0da)
 
 <br/>
 
