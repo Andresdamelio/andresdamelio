@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explore new technologies and develop software solutions.
 - 🎓 &nbsp; Computer engineer.
-- 💼 &nbsp; Frontend Developer at Shipit Latam.
+- 💼 &nbsp; Frontend Developer at N5 NOW.
 - 🌱 &nbsp; Learning more about frontend development and UX/UI.
 - 💚 &nbsp; Platzi student
 - 📫 &nbsp; How to reach me: me@andresdamelio.tech
@@ -49,7 +49,6 @@
 
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat&logo=Udemy&logoColor=white)
 ![Platzi](https://img.shields.io/badge/platzi-98ca3f?style=flat&logo=Platzi&logoColor=white)
-![Pluralsight](https://img.shields.io/badge/Pluralsight-EE3057?style=flat&logo=pluralsight&logoColor=white)
 
 <br/>
 
